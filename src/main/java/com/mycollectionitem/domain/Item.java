@@ -1,5 +1,5 @@
 
-package com.mycollectionitem.Domain;
+package com.mycollectionitem.domain;
 import java.io.Serializable;
 import java.time.LocalDate;
 import javax.persistence.Entity;
