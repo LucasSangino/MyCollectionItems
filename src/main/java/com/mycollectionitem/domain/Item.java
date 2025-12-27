@@ -7,7 +7,7 @@ import javax.persistence.OneToOne;
 
 @Entity  
 public class Item extends  EntityBase implements Serializable {
-
+   
     private String title;
     private String author;
     //private UUID IdSequel;
